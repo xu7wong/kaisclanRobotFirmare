@@ -5,7 +5,7 @@
 > update time: 15/07/2019
 > update log: fixed event bug
 
-[download](https://www.google.com)
+[download](https://github.com/xu7wong/kaisclanRobotFirmare/raw/master/robot-wss-client.ino.generic.bin)
 
 - 2, firmware for ATTINY88
 > update time: 15/07/2019
