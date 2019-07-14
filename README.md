@@ -9,7 +9,7 @@
 
 - 2, firmware for ATTINY88
 > update time: 15/07/2019
-> update log: fixed event bug
+> update log: for V10 PCB 
 
 [download](https://github.com/xu7wong/kaisclanRobotFirmare/raw/master/WSS_CPP.hex)
 
